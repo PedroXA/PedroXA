@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @Pedro
 - 👀 I’m interested in Web Development...
 - 🌱 I’m currently learning at @Cotemig ...
-- 📫 How to reach me:
-   \social[linkedin][https://www.linkedin.com/in/pedro-henrique-dos-reis-braga-xavier//]{Pedro}
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-dos-reis-braga-xavier/)
+
+
+  
     
 
 <!---
