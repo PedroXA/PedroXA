@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development...
 - 🌱 I’m currently learning at @Cotemig ...
 - 📫 How to reach me:
-   \social[linkedin][www.linkedin.com/in/myname/]{My name}
+   \social[linkedin][https://www.linkedin.com/in/pedro-henrique-dos-reis-braga-xavier//]{Pedro}
     
 
 <!---
