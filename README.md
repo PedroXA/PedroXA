@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning at @Cotemig ...
 ## 🔗 Social Media
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-dos-reis-braga-xavier/)
-[![Custom badge](https://img.shields.io/endpoint?color=Red&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2F%23)](https://www.instagram.com/pedr.hdr/)
+[![Custom badge](https://img.shields.io/endpoint?color=Red&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/pedr.hdr/)
 
   
     
