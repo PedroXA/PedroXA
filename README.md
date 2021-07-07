@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning at @Cotemig ...
 
 ## 🛠 Skills
-![html](https://img.shields.io/badge/html-0A66C2?style=for-the-badge&logo=html&logoColor=white)
+![html](https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html&logoColor=white)
 
   
 ## 🔗 Social Media
