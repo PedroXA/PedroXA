@@ -7,7 +7,7 @@
 ![html5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=white)
 ![php](https://img.shields.io/badge/php-000000?style=for-the-badge&logo=php&logoColor=white)
-![csharp](https://img.shields.io/badge/csharp-000000?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/csharp-000000?style=for-the-badge&logo=csharp&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white)
   
 ## 🔗 Social Media
