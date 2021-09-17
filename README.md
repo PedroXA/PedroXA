@@ -1,5 +1,4 @@
-## 🚀 About Me
-- 👋 Hi, I’m @Pedro
+## 👋 Hi, I’m @Pedro
 - 👀 I’m interested in Web Development...
 - 🌱 I’m currently learning at @Cotemig ...
 
