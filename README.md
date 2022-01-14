@@ -11,7 +11,6 @@
   
 ## 🔗 Social Media
 [![linkedin](https://img.shields.io/badge/linkedin-0000ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-dos-reis-braga-xavier/)
-[![discord](https://img.shields.io/badge/discord-0000ff?style=for-the-badge&logo=discord&logoColor=white)](https://discords.com/bio/p/pedrow)
 [![instagram](https://img.shields.io/badge/instagram-405DE6?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedr.hdr/)    
 
 <!---
