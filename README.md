@@ -8,7 +8,7 @@
 ![php](https://img.shields.io/badge/php-000000?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/Csharp-000000?style=for-the-badge&logo=csharp&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white)
-![javascript](img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
   
 ## 🔗 Social Media
 [![linkedin](https://img.shields.io/badge/linkedin-0000ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-dos-reis-braga-xavier/)
