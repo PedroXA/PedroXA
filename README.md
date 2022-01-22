@@ -4,7 +4,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroXA&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroXA&theme=radical&show_icons=true)
 ## 🛠 Skills
 ![html5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=white)
