@@ -5,6 +5,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroXA&theme=radical&show_icons=true)
 
 ## 🛠 Skills
+<details>
+ <summary>Summary Goes Here</summary>
+ ...this is hidden, collapsable content...
+</details>
+
 ![html5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=white)
 ![php](https://img.shields.io/badge/php-000000?style=for-the-badge&logo=php&logoColor=white)
