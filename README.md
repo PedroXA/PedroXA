@@ -27,15 +27,20 @@
 ![bootstrap](https://img.shields.io/badge/bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
 </details>
 <details>
+ 
  <summary><b>Backend</b></summary>
  
 ![php](https://img.shields.io/badge/php-000000?style=for-the-badge&logo=php&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![C#](https://img.shields.io/badge/Csharp-000000?style=for-the-badge&logo=csharp&logoColor=white)
  
 </details>
 <details>
  <summary><b>Databases</b></summary>
-
+ 
+![oraclesql](https://img.shields.io/badge/oracle-000000?style=for-the-badge&logo=oracle&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white)
+ 
 </details>
 
 
