@@ -44,7 +44,7 @@
 </details>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroXA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroXA&layout=dark)](https://github.com/anuraghazra/github-readme-stats)
   
 ## 🔗 Social Media
 [![linkedin](https://img.shields.io/badge/linkedin-0000ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-dos-reis-braga-xavier/)
