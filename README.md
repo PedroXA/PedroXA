@@ -11,7 +11,7 @@
 ![C#](https://img.shields.io/badge/Csharp-000000?style=for-the-badge&logo=csharp&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![oraclesql](https://img.shields.io/badge/oracle-000000?style=for-the-badge&logo=oracle database&logoColor=white)
+![oraclesql](https://img.shields.io/badge/oracle-000000?style=for-the-badge&logo=oracledatabase&logoColor=white)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroXA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 ## 🔗 Social Media
