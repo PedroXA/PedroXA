@@ -6,7 +6,7 @@
 
 ## 🛠 Skills
 <details>
- <summary>Stack</summary>
+ <summary><b>Stack</b></summary>
 
 </details>
 
