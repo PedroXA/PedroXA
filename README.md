@@ -7,7 +7,9 @@
 ## 🛠 Skills
 <details>
  <summary><b>Stack</b></summary>
-
+ 
+<a href:"![html5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white)">
+ 
 </details>
 <details>
  <summary><b>Frontend</b></summary>
