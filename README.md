@@ -1,9 +1,9 @@
 ## 👋 Hi, I’m @Pedro
 - 👀 I’m interested in Web Development...
 - 🌱 I’m currently learning at @Cotemig ...
-
+<div class="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroXA)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 ## 🛠 Skills
 <details>
  <summary><b>Stack</b></summary>
