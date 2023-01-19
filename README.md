@@ -2,8 +2,6 @@
 - 👀 I’m interested in Web Development...
 - 🌱 I’m currently learning at @Cotemig ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroXA&show_icons=true&theme=vision-friendly-dark)
-
 ## 🛠 Skills
 <details>
  <summary><b>Stack</b></summary>
@@ -40,9 +38,6 @@
 ![mysql](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white)
  
 </details>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroXA&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=vision-friendly-dark)
   
 ## 🔗 Social Media
 [![linkedin](https://img.shields.io/badge/linkedin-0000ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-dos-reis-braga-xavier/)
