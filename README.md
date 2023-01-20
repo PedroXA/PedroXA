@@ -1,7 +1,8 @@
 ## 👋 Hi, I’m @Pedro
-- 👀 I’m interested in Web Development...
-- 🌱 I’m currently learning at @Cotemig ...
-
+- 💻 I’m a Web Developer.
+- 📚 I’m currently studying at Faculdade Cotemig.
+- 👦 Passionated with technology since Childhood, always trying to improve myself with new challenges. 
+- 🇧🇷 BH - MG
 ## 🛠 Skills
 <details>
  <summary><b>Stack</b></summary>
