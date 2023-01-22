@@ -43,7 +43,7 @@
  
 </details>
   
-## 🔗 Social Media
+## 🔗 Contacts
 [![linkedin](https://img.shields.io/badge/linkedin-0000ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-dos-reis-braga-xavier/) - Pedro Henrique Dos Reis Braga Xavier
 <br>
 
