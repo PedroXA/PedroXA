@@ -15,6 +15,7 @@
 ![javascript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![oraclesql](https://img.shields.io/badge/oracle-000000?style=for-the-badge&logo=oracle&logoColor=white)
 ![scss](https://img.shields.io/badge/scss-000000?style=for-the-badge&logo=scss&logoColor=white)
+![java](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=java&logoColor=white)
 </details>
 <details>
  <summary><b>Frontend</b></summary>
@@ -23,6 +24,7 @@
 ![css3](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
+![scss](https://img.shields.io/badge/scss-000000?style=for-the-badge&logo=scss&logoColor=white)
 </details>
 <details>
  
@@ -31,7 +33,7 @@
 ![php](https://img.shields.io/badge/php-000000?style=for-the-badge&logo=php&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![C#](https://img.shields.io/badge/Csharp-000000?style=for-the-badge&logo=csharp&logoColor=white)
- 
+![java](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=java&logoColor=white)
 </details>
 <details>
  <summary><b>Databases</b></summary>
