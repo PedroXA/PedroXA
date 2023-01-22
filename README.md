@@ -44,10 +44,10 @@
 </details>
   
 ## 🔗 Social Media
-[![linkedin](https://img.shields.io/badge/linkedin-0000ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-dos-reis-braga-xavier/) * Pedro Henrique Dos Reis Braga Xavier
+[![linkedin](https://img.shields.io/badge/linkedin-0000ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-dos-reis-braga-xavier/) -- Pedro Henrique Dos Reis Braga Xavier
 <br>
 
-[![gmail](https://img.shields.io/badge/gmail-405DE6?style=for-the-badge&logo=gmail&logoColor=white)](#)  * pedroxad@gmail.com
+[![gmail](https://img.shields.io/badge/gmail-405DE6?style=for-the-badge&logo=gmail&logoColor=white)](#)  -- pedroxad@gmail.com
 
 <!---
 PedroXA/PedroXA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
