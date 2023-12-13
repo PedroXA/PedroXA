@@ -5,7 +5,7 @@
 - 🌍 BH - MG
 
 ## 🔗 Contacts
-[![linkedin](https://img.shields.io/badge/linkedin-0000ff?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/pedro-henrique-dos-reis-braga-xavier/](https://www.linkedin.com/in/pedro-henrique-dos-reis/)) - Pedro Henrique Dos Reis Braga Xavier
+[![linkedin](https://img.shields.io/badge/linkedin-0000ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-dos-reis-braga-xavier/)
 <br>
 
 [![gmail](https://img.shields.io/badge/gmail-405DE6?style=for-the-badge&logo=gmail&logoColor=white)](#)  - pedroxad@gmail.com
