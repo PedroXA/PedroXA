@@ -1,4 +1,5 @@
 ## 👋 Hi, I’m @Pedro
+```javascript
 const aboutMe = {
     name: "Pedro Henrique",
     age: 19,
@@ -10,3 +11,4 @@ const aboutMe = {
     },
     description: "I'm a full stack developer looking for an opportunity to contribute on workflows. Always trying to improve myself and learn new stuff 😊"
 }
+```
