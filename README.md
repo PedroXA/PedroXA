@@ -15,7 +15,7 @@ const aboutMe = {
 
 
 ```bash
-    1 Corinthians 15:58 Therefore, my beloved brethren, be steadfast,
+    <b>1 Corinthians 15:58</b> Therefore, my beloved brethren, be steadfast,
     immovable, always abounding in the work of the Lord,
     knowing that your labor is not in vain in the Lord.
 ```
