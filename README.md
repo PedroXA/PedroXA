@@ -6,7 +6,7 @@ const aboutMe = {
     isGraduated: true,
     stack: {
         languages: ["JS", "C#", "Java"],
-        frameworks: ["SpringBoot", "React", "Bootstrap", "SCSS" ,"Scrum", "Kanban"],
+        frameworks: ["SpringBoot", "React", "Bootstrap", "SCSS", "Scrum", "Kanban"],
         tools: ["Figma", "Marvel APP", "GIT", "GitHub", "Swagger"]
     },
     description: "I'm a full stack developer looking for an opportunity to contribute on workflows.
