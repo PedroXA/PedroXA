@@ -1,4 +1,3 @@
-## 👋 Hi, I’m @Pedro
 ```javascript
 const aboutMe = {
     name: "Pedro Henrique",
@@ -12,4 +11,9 @@ const aboutMe = {
     description: "I'm a full stack developer looking for an opportunity to contribute on workflows.
     Always trying to improve myself and learn new stuff 😊"
 }
+```
+
+
+```bash
+    1 Corinthians 15:58 Therefore, my beloved brethren, be steadfast, immovable, always abounding in the work of the Lord, knowing that your labor is not in vain in the Lord.
 ```
