@@ -4,7 +4,7 @@ const aboutMe = {
     age: 19,
     isGraduated: true,
     stack: {
-        languages: ["JS", "Java"],
+        languages: ["JavaScript", "Java"],
         frameworks: ["SpringBoot", "React", "Bootstrap", "SCSS", "Scrum", "Kanban", "Swagger", "Node"],
         tools: ["Figma", "Marvel APP", "GIT", "GitHub"]
     },
