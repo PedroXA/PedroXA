@@ -1,7 +1,7 @@
 ```javascript
 const aboutMe = {
     name: "Pedro Henrique",
-    age: 19,
+    age: 20,
     isGraduated: true,
     stack: {
         languages: ["JavaScript", "Java"],
