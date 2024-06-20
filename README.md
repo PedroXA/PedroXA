@@ -6,8 +6,6 @@
 > 1 Corinthians 15:58 Therefore, my beloved brethren, be steadfast, immovable, always abounding in the work of the Lord, knowing that your labor is not in vain in the Lord.
 
 ---
-
-### Knowledge
 Some tech that I use or I'm studying:
 
 <table style="margin: auto;">
@@ -52,7 +50,7 @@ Some tech that I use or I'm studying:
 
 ### Some places you can find me ![Smile](https://img.icons8.com/?size=40&id=98huvVUFtEyB&format=png)
 
-[![LinkedIN](https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png)](https://www.linkedin.com/in/pedro-henrique-dos-reis/) [![Discord](https://img.icons8.com/?size=48&id=RLJfWOxNk8Bc&format=png)](https://discordapp.com/users/980289389294927882/)
+[![LinkedIN](https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png)](https://www.linkedin.com/in/pedro-henrique-dos-reis/) [![Discord](https://img.icons8.com/?size=48&id=30998&format=png)](https://discordapp.com/users/980289389294927882/)
 
 ---
 
