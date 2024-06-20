@@ -16,28 +16,28 @@
     <th>DEV OPS</th>
     <th>DATA</th>
   </tr>
-  <tr>
+  <tr align="center">
     <td><img src="https://img.icons8.com/?size=40&id=asWSSTBrDlTW&format=png" alt="React"></td>
     <td><img src="https://img.icons8.com/?size=40&id=54087&format=png" alt="Node.js"></td>
     <td><img src="https://img.icons8.com/?size=40&id=WHRLQdbEXQ16&format=png" alt="Google Cloud"></td>
     <td><img src="https://img.icons8.com/?size=48&id=22813&format=png" alt="Docker"></td>
     <td><img src="https://img.icons8.com/?size=40&id=117561&format=png" alt="Excel"></td>
   </tr>
-  <tr>
+  <tr align="center">
     <td><img src="https://img.icons8.com/?size=40&id=84710&format=png" alt="Bootstrap"></td>
     <td><img src="https://img.icons8.com/?size=40&id=SDVmtZ6VBGXt&format=png" alt="Express"></td>
     <td><img src="https://img.icons8.com/?size=40&id=62452&format=png" alt="Firebase"></td>
     <td><img src="https://img.icons8.com/?size=40&id=cvzmaEA4kC0o&format=png" alt="Kubernetes"></td>
     <td><img src="https://img.icons8.com/?size=40&id=Ny0t2MYrJ70p&format=png" alt="Power BI"></td>
   </tr>
-  <tr>
+  <tr align="center">
     <td><img src="https://img.icons8.com/?size=40&id=4PiNHtUJVbLs&format=png" alt="Tailwind"></td>
     <td><img src="https://img.icons8.com/?size=40&id=108784&format=png" alt="JavaScript"></td>
     <td><img src="https://img.icons8.com/?size=40&id=39913&format=png" alt="Oracle"></td>
     <td></td>
     <td><img src="https://img.icons8.com/?size=40&id=13441&format=png" alt="Python"></td>
   </tr>
-  <tr>
+  <tr align="center">
     <td><img src="https://img.icons8.com/?size=40&id=8gfeOoqrHqJU&format=png" alt="Figma"></td>
     <td><img src="https://img.icons8.com/?size=40&id=nCj4PvnCO0tZ&format=png" alt="TypeScript"></td>
     <td><img src="https://img.icons8.com/?size=40&id=9nLaR5KFGjN0&format=png" alt="MySQL"></td>
