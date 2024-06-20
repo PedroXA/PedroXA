@@ -1,5 +1,5 @@
 
-<h2 align="center">Hello ! <img src="https://img.icons8.com/?size=48&id=alM3wqiSHT6s&format=png"></h2> 
+<h2 align="center">Hello <img src="https://img.icons8.com/?size=48&id=alM3wqiSHT6s&format=png"></h2> 
 
 > 1 Corinthians 15:58 Therefore, my beloved brethren, be steadfast, immovable, always abounding in the work of the Lord, knowing that your labor is not in vain in the Lord.
 
