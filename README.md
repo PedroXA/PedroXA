@@ -6,9 +6,9 @@
 > 1 Corinthians 15:58 Therefore, my beloved brethren, be steadfast, immovable, always abounding in the work of the Lord, knowing that your labor is not in vain in the Lord.
 
 ---
-Some tech that I use or I'm studying:
+<p align="center">Some tech that I use or I'm studying:<p/>
 
-<table style="margin: auto;">
+<table align="center">
   <tr>
     <th>FRONT-END</th>
     <th>BACK-END</th>
