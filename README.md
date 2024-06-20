@@ -1,11 +1,10 @@
-
-<center>
-
+<div align="center">
 ## Hello, my name is Pedro! ![Hi](https://img.icons8.com/?size=48&id=alM3wqiSHT6s&format=png)
 
 > 1 Corinthians 15:58 Therefore, my beloved brethren, be steadfast, immovable, always abounding in the work of the Lord, knowing that your labor is not in vain in the Lord.
 
 ---
+</div>
 <p align="center">Some tech that I use or I'm studying:<p/>
 
 <table align="center">
