@@ -43,7 +43,7 @@
   </tr>
 </table>
 <div align="center">
-<h3>Some places you can find me</h3> ![Smile](https://img.icons8.com/?size=40&id=98huvVUFtEyB&format=png)
+<h3>Some places you can find me</h3>
 
 [![LinkedIN](https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png)](https://www.linkedin.com/in/pedro-henrique-dos-reis/) [![Discord](https://img.icons8.com/?size=48&id=30998&format=png)](https://discordapp.com/users/980289389294927882/)
 </div>
