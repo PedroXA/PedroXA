@@ -48,9 +48,5 @@
 [![LinkedIN](https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png)](https://www.linkedin.com/in/pedro-henrique-dos-reis/) [![Discord](https://img.icons8.com/?size=48&id=30998&format=png)](https://discordapp.com/users/980289389294927882/)
 </div>
 
-<center>
   > "Education is the most powerful weapon which you can use to change the world." - Nelson Mandela
-</center>
 
-
-</center>
