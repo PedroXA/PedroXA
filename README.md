@@ -1,7 +1,7 @@
 
 <center>
 
-## Hello, my name is Pedro! ![Hi](https://img.icons8.com/?size=48&id=alM3wqiSHT6s&format=gif)
+## Hello, my name is Pedro! ![Hi](https://img.icons8.com/?size=48&id=alM3wqiSHT6s&format=png)
 
 > 1 Corinthians 15:58 Therefore, my beloved brethren, be steadfast, immovable, always abounding in the work of the Lord, knowing that your labor is not in vain in the Lord.
 
@@ -40,7 +40,7 @@ Some tech that I use or I'm studying:
     <td><img src="https://img.icons8.com/?size=40&id=13441&format=png" alt="Python"></td>
   </tr>
   <tr>
-    <td><img src="https://img.icons8.com/?size=40&id=8gfeOoqrHqJU&format=gif" alt="Figma"></td>
+    <td><img src="https://img.icons8.com/?size=40&id=8gfeOoqrHqJU&format=png" alt="Figma"></td>
     <td><img src="https://img.icons8.com/?size=40&id=nCj4PvnCO0tZ&format=png" alt="TypeScript"></td>
     <td><img src="https://img.icons8.com/?size=40&id=9nLaR5KFGjN0&format=png" alt="MySQL"></td>
     <td></td>
@@ -50,9 +50,9 @@ Some tech that I use or I'm studying:
 
 ---
 
-### Some places you can find me ![Smile](https://img.icons8.com/?size=10&id=98huvVUFtEyB&format=gif)
+### Some places you can find me ![Smile](https://img.icons8.com/?size=40&id=98huvVUFtEyB&format=png)
 
-[![LinkedIN](https://img.icons8.com/?size=48&id=TpMqKvVFD9pP&format=gif)](https://www.linkedin.com/in/pedro-henrique-dos-reis/) [![Discord](https://img.icons8.com/?size=40&id=ubG3KC00ctgG&format=gif)](https://discordapp.com/users/980289389294927882/)
+[![LinkedIN](https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png)](https://www.linkedin.com/in/pedro-henrique-dos-reis/) [![Discord](https://img.icons8.com/?size=48&id=RLJfWOxNk8Bc&format=png)](https://discordapp.com/users/980289389294927882/)
 
 ---
 
