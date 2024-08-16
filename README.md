@@ -31,14 +31,11 @@
     <td><img src="https://img.icons8.com/?size=40&id=4PiNHtUJVbLs&format=png" alt="Tailwind"></td>
     <td><img src="https://img.icons8.com/?size=40&id=108784&format=png" alt="JavaScript"></td>
     <td><img src="https://img.icons8.com/?size=40&id=39913&format=png" alt="Oracle"></td>
-    <td></td>
   </tr>
   <tr align="center">
     <td><img src="https://img.icons8.com/?size=40&id=8gfeOoqrHqJU&format=png" alt="Figma"></td>
     <td><img src="https://img.icons8.com/?size=40&id=nCj4PvnCO0tZ&format=png" alt="TypeScript"></td>
     <td><img src="https://img.icons8.com/?size=40&id=9nLaR5KFGjN0&format=png" alt="MySQL"></td>
-    <td></td>
-    <td></td>
   </tr>
 </table>
 <div align="center">
