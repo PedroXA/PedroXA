@@ -51,16 +51,6 @@
 
 ---
 
-### ✨ Projetos em destaque
-
-🔹 [**Portfólio em TypeScript**](https://github.com/PedroXA/portfolio)  
-Um portfólio simples e funcional hospedado no Vercel. Esse aqui é só o começo!
-
-🔹 [**JavaScript Studies**](https://github.com/PedroXA/JavaScript-Studies)  
-Repositório dos meus estudos e projetos com JS puro antes da migração pro TypeScript.
-
----
-
 ### 🤝 Conecte-se comigo
 
 - 📍 Minas Gerais – Brasil
