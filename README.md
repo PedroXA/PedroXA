@@ -1,36 +1,30 @@
 
-<h1 align="center">👋 Olá! Eu sou o Pedro</h1>
+<h1 align="center">👋 Hi!</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Front-end | Apaixonado por tecnologia, games e design</strong><br/>
+  <strong>Front-end developer</strong><br/>
   <em>"nosforeverever."</em>
 </p>
 
 <p align="center">
   <a href="https://pedroxavierdev.vercel.app" target="_blank">
-    🌐 Meu Portfólio
-  </a> •
-  <a href="https://www.linkedin.com/in/pedro-henrique-dos-reis/" target="_blank">
-    💼 LinkedIn
-  </a> •
-  <a href="mailto:pedroxad@gmail.com" target="_blank">
-    📧 E-mail
-  </a>
+    🌐 My Portfolio
+  </a> 
 </p>
 
 ---
 
-### 💻 Sobre mim
+### 💻 About me
 
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas
-- 🧠 Técnico em Informática
-- 💼 Atuo como **Desenvolvedor Front-end** com foco em interfaces intuitivas e responsivas
-- ✝️ Voluntário em projetos sociais e mídia de igreja
-- 🎮 Gamer nas horas vagas, entusiasta de tecnologia e anime lover
+- 🎓 Graduated in Systems Analysis and Development
+- 🧠 Computer technician
+- 💼 **Front-end developer** building intuitive and responsive layouts
+- ✝️ Volunteer at @IBL as Social Media
+- 🎮 Gamer on my free time, technology enthusiast and anime lover
 
 ---
 
-### 🛠️ Tecnologias que uso
+### 🛠️ Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -51,11 +45,18 @@
 
 ---
 
-### 🤝 Conecte-se comigo
+### 🤝 Get in touch
 
-- 📍 Minas Gerais – Brasil
-- 💬 Me chama pra trocar uma ideia sobre projetos, tecnologia ou até pra marcar um coop nos games 😎
-
+- 📍 Minas Gerais – Brazil
+<p align="center">
+•
+  <a href="https://www.linkedin.com/in/pedro-henrique-dos-reis/" target="_blank">
+    💼 LinkedIn
+  </a> •
+  <a href="mailto:pedroxad@gmail.com" target="_blank">
+    📧 E-mail
+  </a>
+</p>
 ---
 
 <p align="center">
