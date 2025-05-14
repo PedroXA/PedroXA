@@ -3,7 +3,7 @@
 
 <p align="center">
   <strong>Desenvolvedor Front-end | Apaixonado por tecnologia, games e design</strong><br/>
-  <em>"Code, café e caos controlado."</em>
+  <em>"nosforeverever."</em>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 ### 💻 Sobre mim
 
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
-- 🧠 Técnico em Informática e instrutor de TI
+- 🧠 Técnico em Informática
 - 💼 Atuo como **Desenvolvedor Front-end** com foco em interfaces intuitivas e responsivas
 - ✝️ Voluntário em projetos sociais e mídia de igreja
 - 🎮 Gamer nas horas vagas, entusiasta de tecnologia e anime lover
