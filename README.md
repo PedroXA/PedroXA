@@ -10,10 +10,10 @@
   <a href="https://pedroxavierdev.vercel.app" target="_blank">
     🌐 Meu Portfólio
   </a> •
-  <a href="https://www.linkedin.com/in/seu-linkedin-aqui" target="_blank">
+  <a href="https://www.linkedin.com/in/pedro-henrique-dos-reis/" target="_blank">
     💼 LinkedIn
   </a> •
-  <a href="mailto:seuemail@gmail.com" target="_blank">
+  <a href="mailto:pedroxad@gmail.com" target="_blank">
     📧 E-mail
   </a>
 </p>
