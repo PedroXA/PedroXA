@@ -17,7 +17,7 @@
 ### 💻 About me
 
 -  🎓 Degree in Systems Analysis and Development
--  💻 Certified Computer Technician
+-  💻 Computer Technician
 -  🧑‍💻 Front-end developer focused on responsive and user-friendly UIs
 -  🤝 Volunteer Social Media Manager @IBL
 -  🎮 Tech enthusiast, anime fan, and casual gamer in my spare time
