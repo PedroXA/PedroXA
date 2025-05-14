@@ -16,11 +16,11 @@
 
 ### 💻 About me
 
-- 🎓 Graduated in Systems Analysis and Development
-- 🧠 Computer technician
-- 💼 **Front-end developer** building intuitive and responsive layouts
-- ✝️ Volunteer at @IBL as Social Media
-- 🎮 Gamer on my free time, technology enthusiast and anime lover
+-  🎓 Degree in Systems Analysis and Development
+-  💻 Certified Computer Technician
+-  🧑‍💻 Front-end developer focused on responsive and user-friendly UIs
+-  🤝 Volunteer Social Media Manager @IBL
+-  🎮 Tech enthusiast, anime fan, and casual gamer in my spare time
 
 ---
 
