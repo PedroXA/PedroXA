@@ -49,11 +49,13 @@
 
 - 📍 Minas Gerais – Brazil
 
--  <a href="https://www.linkedin.com/in/pedro-henrique-dos-reis/" target="_blank">
+- <p>
+  <a href="https://www.linkedin.com/in/pedro-henrique-dos-reis/" target="_blank">
     💼 LinkedIn
   </a> <a href="mailto:pedroxad@gmail.com" target="_blank">
     📧 E-mail
   </a>
+</p> 
 
 ---
 
