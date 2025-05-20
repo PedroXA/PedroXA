@@ -10,8 +10,9 @@
   <a href="https://pedroxavierdev.vercel.app" target="_blank">
     🌐 My Portfolio
   </a> 
+  Este portfólio está DESATUALIZADO e DESCONTINUADO estou preparando outro para cobrir este
 </p>
-Este portfólio está DESATUALIZADO e DESCONTINUADO estou preparando outro para cobrir este
+
 
 ---
 
