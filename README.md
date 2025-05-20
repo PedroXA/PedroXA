@@ -11,6 +11,7 @@
     🌐 My Portfolio
   </a> 
 </p>
+Este portfólio está DESATUALIZADO e DESCONTINUADO estou preparando outro para cobrir este
 
 ---
 
