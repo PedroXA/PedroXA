@@ -7,10 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://pedroxavierdev.vercel.app" target="_blank">
+  <a href="#" target="_blank">
     🌐 My Portfolio
   </a> 
-  Este portfólio está DESATUALIZADO e DESCONTINUADO estou preparando outro para cobrir este
 </p>
 
 
