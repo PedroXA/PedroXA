@@ -34,6 +34,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![Static Badge](https://img.shields.io/badge/Bootstrap?style=flat&logo=bootstrap&labelColor=%23FFF&color=%23490b75)
+
 ---
 
 ### 🤝 Get in touch
