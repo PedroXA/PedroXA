@@ -35,16 +35,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroXA&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroXA&layout=compact&theme=tokyonight"/>
-</p>
-
 ---
 
 ### 🤝 Get in touch
