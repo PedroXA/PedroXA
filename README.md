@@ -60,7 +60,7 @@
 
 ### 🤝 Get in touch
 
-- 📍 Minas Gerais – Brazil
+- 📍 Minas Gerais - Belo Horizonte – Brazil
 
 - <p>
   <a href="https://www.linkedin.com/in/pedro-henrique-dos-reis/" target="_blank">
