@@ -12,9 +12,6 @@
   </a> 
 </p>
 
-
----
-
 ### 💻 About me
 
 -  🎓 Degree in Systems Analysis and Development
@@ -22,8 +19,6 @@
 -  🧑‍💻 Front-end developer focused on responsive and user-friendly UIs
 -  🤝 Volunteer Social Media Manager @IBL
 -  🎮 Tech enthusiast, anime fan, and casual gamer in my spare time
-
----
 
 ### 🛠️ Stack
 
@@ -56,8 +51,6 @@
 [![Zeplin](https://img.shields.io/badge/Zeplin-FFAE00?style=for-the-badge&logo=zeplin&logoColor=white)](https://zeplin.io/)
 [![Less](https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white)](http://lesscss.org/)
 
----
-
 ### 🤝 Get in touch
 
 - 📍 Minas Gerais - Belo Horizonte – Brazil
@@ -70,8 +63,6 @@
     📧 E-mail
   </a>
 </p> 
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PedroXA&color=blue&style=flat-square" alt="profile views"/>
