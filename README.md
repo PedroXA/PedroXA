@@ -27,8 +27,8 @@
 - <p>
   <a href="https://www.linkedin.com/in/pedro-henrique-dos-reis/" target="_blank">
     💼 LinkedIn
-  </a>• 
-  <p>E-mail: pedroxad@gmail.com</p>
+  </a> 
+  <p>✉️ E-mail: pedroxad@gmail.com</p>
 </p> 
 
 <p align="center">
