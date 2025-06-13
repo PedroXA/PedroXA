@@ -6,12 +6,6 @@
   <em>"nosforeverever."</em>
 </p>
 
-<p align="center">
-  <a href="#" target="_blank">
-    🌐 My Portfolio
-  </a> 
-</p>
-
 ### 💻 About me
 
 -  🎓 Degree in Systems Analysis and Development
